@@ -1,5 +1,5 @@
-# Hi, My name is olalekan Temitayo.
-## Student at Obafemi Awolowo University
+## Hi, My name is olalekan Temitayo.
+#### Student at Obafemi Awolowo University
 
 <!--
 **temitayopelumi/temitayopelumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
