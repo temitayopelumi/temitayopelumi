@@ -11,6 +11,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Machine Learning Projects
 
 - 💬 Ask me about anything python and machine learning.
-- 📫 How to reach me: 
+- 📫 How to reach me: olalekantemitayo7@gmail.com
 - 😄 Pronouns: She/Her
 
