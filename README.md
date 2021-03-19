@@ -14,3 +14,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: olalekantemitayo7@gmail.com
 - 😄 Pronouns: She/Her
 
+[![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=temitayopelumi)](https://github.com/temitayopelumi/github-readme-stats)
