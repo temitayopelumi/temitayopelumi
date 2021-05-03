@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 
  
 - 🌱 I’m currently learning backend development with python
-- 👯 I’m looking to collaborate on Machine Learning Projects and Django projects
+- 👯 I’m looking to collaborate on any Software Development Project
 
 - 💬 Ask me about anything python, backend development and machine learning.
 - 📫 How to reach me: olalekantemitayo7@gmail.com
