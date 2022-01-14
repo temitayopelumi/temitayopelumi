@@ -13,8 +13,20 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about anything python, backend development and machine learning.
 - 📫 How to reach me: olalekantemitayo7@gmail.com
 - 😄 Pronouns: She/Her
-[![Temitayo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4791a866-fcd2-46b2-8455-aa73b157d870&border_radius=10)](#))
-<!-- [![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=temitayopelumi)](https://github.com/temitayopelumi/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temitayopelumi&theme=radical" /> -->
+<a >
+<img align="center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=devtemi&border_radius=10"
+</a>
+<a>
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=temitayopelumi&count_private=true&show_icons=true&theme=dark"
+</a>
+<!-- <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=temitayopelumi&&theme=dark&hide=css&layout=compact"
+</a> -->
 
-<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) --!>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devtemi&border_radius=10" /> <img src="https://github-readme-stats.vercel.app/api?username=temitayopelumi&count_private=true&show_icons=true&theme=dark" />  -->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
