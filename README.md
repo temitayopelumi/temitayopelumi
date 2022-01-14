@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about anything python, backend development and machine learning.
 - 📫 How to reach me: olalekantemitayo7@gmail.com
 - 😄 Pronouns: She/Her
-
+[![Temitayo's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4791a866-fcd2-46b2-8455-aa73b157d870&border_radius=10)](#))
 <!-- [![Temitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=temitayopelumi)](https://github.com/temitayopelumi/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temitayopelumi&theme=radical" /> -->
 
